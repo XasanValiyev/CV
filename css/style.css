@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	text-align: center;
+	
+}
+
+p{
+	font-family: 'Source Code Pro', monospace;
+    font-size: 12pt;
+   }
+.pro{
+	 text-decoration: underline;
+	 font-family: 'Source Code Pro', monospace;
+}
+h1,h2,h3{
+	font-family: 'Sacramento', cursive;
+	font-size: 2rem;
+}
+
+
+
+/*`````````````````CLASSES SECTION``````````````````````````*/
+.third-skill-image{
+	height: 200px;
+   width: 200px;
+}
+
+
+.first-skill-image{
+   height: 200px;
+   width: 200px;
+}
+.second-skill-image{
+   height: 200px;
+   width: 200px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+	margin-bottom: 0;
+}
+.top-container{
+	background-color: #b2ebf2;
+	position: relative;
+}
+.top-cloud{
+   position: relative;
+   margin-top: 0;
+   left: 200px;
+   top: 30px;
+}
+.bottom-cloud{
+position: relative;
+   left: 30px;
+   bottom: 300px;
+}
